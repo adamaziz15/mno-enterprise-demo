@@ -10,6 +10,6 @@
   version "2.0.0-dev"
   resolved "https://github.com/maestrano/mno-enterprise-angular.git#b649f1e64ca0cb6ad51e1180701563496dc51e38"
 
-"mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
+"mnoe-admin-panel@https://github.com/adamaziz15/mnoe-admin-panel.git#bug/1112-subscription-state":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#cd8fa2b00217a781ad206b46d4b9f3da9be61d6d"
+  resolved "https://github.com/adamaziz15/mnoe-admin-panel.git#4059d000cc1e79c760be8e13596851e8b24357b0"
