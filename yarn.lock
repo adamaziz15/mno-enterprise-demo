@@ -6,10 +6,10 @@
   version "1.6.10"
   resolved "git+https://git@github.com/maestrano/impac-angular.git#79df9fca8bcf4b5b09ab2edb4b18c461c5700bd1"
 
-"mno-enterprise-angular@https://github.com/maestrano/mno-enterprise-angular.git#2.0":
+"mno-enterprise-angular@https://github.com/NickenChuggets/mno-enterprise-angular.git#bug/1140-can-provision-app-from-admin-panel-but-not-marketplace":
   version "2.0.0-dev"
-  resolved "https://github.com/maestrano/mno-enterprise-angular.git#b649f1e64ca0cb6ad51e1180701563496dc51e38"
+  resolved "https://github.com/NickenChuggets/mno-enterprise-angular.git#a4a01cc755396b428052dcebecf48a2d05bbc18b"
 
-"mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
+"mnoe-admin-panel@https://github.com/MAhsenArif/mnoe-admin-panel.git#organization_current_credit":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#cd8fa2b00217a781ad206b46d4b9f3da9be61d6d"
+  resolved "https://github.com/MAhsenArif/mnoe-admin-panel.git#0031976b0be2f58a8136f19e9a5de43fe3b3c6c9"
